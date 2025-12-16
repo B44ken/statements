@@ -23,6 +23,8 @@ Based on typical Ontario municipal website structures, the financial statements 
    - Main site: https://www.caledon.ca
    - Likely path: https://www.caledon.ca/en/town-hall/financial-reports.aspx
    - Alternative: https://www.caledon.ca/en/town-hall/budget-and-finance.aspx
+   
+   **Note**: These URLs are speculative and untested due to network restrictions. Please verify the actual website structure during manual download, as municipal websites may have different layouts.
 
 2. **Search Terms to Try**
    - "Town of Caledon financial statements"
@@ -34,8 +36,8 @@ Based on typical Ontario municipal website structures, the financial statements 
 
 1. Visit the Town of Caledon website
 2. Navigate to Town Hall > Financial Reports or Budget & Finance section
-3. Download financial statements/annual reports for available years (typically 2022, 2023, 2024)
-4. Create year subfolders (e.g., 2022/, 2023/, 2024/)
+3. Download financial statements/annual reports for all available years (recent years such as 2022, 2023, 2024, or older years if available)
+4. Create year subfolders (e.g., 2022/, 2023/, 2024/) for each year downloaded
 5. Save PDFs with consistent naming (e.g., FinancialReport.pdf or AnnualReport.pdf)
 6. Update this notes.md with actual sources and links
 
