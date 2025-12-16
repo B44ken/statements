@@ -39,5 +39,5 @@ London/
 
 ## Status
 
-- [ ] Folder created
+- [x] Folder created
 - [ ] Financial statements pending download (requires manual intervention due to network restrictions)
