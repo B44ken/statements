@@ -1,35 +1,25 @@
 # Markham (Ontario) – Notes
 
-## Blockers
+## What's in this folder
 
-Unable to access Markham's financial statements due to the following issues:
+For each year folder, `AnnualReport.pdf` is the City of Markham "Annual Report" which includes audited consolidated financial statements as well as information about how the City is spending money and delivering services.
 
-1. **Website Access Blocked**: The main City of Markham website (www.markham.ca) is blocked in this environment.
-2. **Search Engines Blocked**: Cannot use Google or DuckDuckGo to search for the financial statements page.
-3. **Old URL Structure Deprecated**: Attempted various URL patterns based on other Ontario municipalities, but the old `/wps/portal/` URL structure appears to be deprecated and returns 404 errors.
+According to the City of Markham's website: "City of Markham annual reports include audited financial statements as well as a look at how the City is spending money and delivering services."
 
-## Attempted URLs
+## Awards
 
-The following URLs were attempted but returned "Page not found" errors:
-- https://www.markham.ca/wps/portal/home/about/budgets-finance
-- https://www.markham.ca/wps/portal/home/about/financial-reports
-- https://www.markham.ca/en/business-and-development/budgets-and-finances
+The City of Markham's annual reports have received the Canadian Award for Excellence in Financial Reporting from the Government Financial Officers Association (GFOA) for 22 consecutive years.
 
-## Next Steps
+## Source
 
-To complete this task, the following actions are needed:
-1. Access to the City of Markham website to locate the current financial statements page
-2. Identify the correct URL structure for financial statements (the city appears to have migrated to Drupal 10)
-3. Download consolidated financial statements and/or annual reports for available years
-4. Organize files into year subfolders (e.g., 2022/, 2023/, 2024/)
+City of Markham – Property Tax, Water, Budgets and Annual Reports:
+https://www.markham.ca/about-city-markham/city-hall/property-tax-water-budgets-and-annual-reports
 
-## Suggested Search Terms
+## Direct Links to Downloaded Files
 
-When able to access the website or search engines:
-- "markham ontario financial statements"
-- "markham ontario annual report"
-- "markham ontario consolidated financial statements"
-- Site-specific search: site:markham.ca financial statements
+- 2024: https://www.markham.ca/sites/default/files/2025-06/AR%202024%20Jun-9-AODA.pdf
+- 2023: https://www.markham.ca/sites/default/files/2024-07/Annual_Report_2023.pdf
+- 2022: https://www.markham.ca/sites/default/files/markhamcontent/%25212022%2BAnnual%2BReport%2BAODA%2BCompliant_highrise.pdf
 
 ## Municipality Information
 
