@@ -12,7 +12,7 @@ For each year folder, `FinancialStatements.pdf` contains the Town of Ajax's audi
 
 ## Notes
 
-The Town of Ajax's annual financial reports page provides audited financial statements for recent years. As of the time of collection (December 2025), statements for 2022, 2023, and 2024 were available.
+The Town of Ajax's annual financial reports page provides audited financial statements for recent years. As of the time of collection (December 2024), statements for 2022, 2023, and 2024 were available.
 
 Older years (2021 and earlier) were not found on the current website.
 
