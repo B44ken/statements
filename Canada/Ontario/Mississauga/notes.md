@@ -2,7 +2,7 @@
 
 ## What's in this folder
 
-For each year folder (2019-2024), `FinancialReport.pdf` contains the City of Mississauga's Annual Financial and Sustainability Report (or Annual Financial Report for 2019).
+For each year folder (2008-2024), `FinancialReport.pdf` contains the City of Mississauga's Annual Financial Report (2008-2019) or Financial and Sustainability Report (2020-2024).
 
 These reports include:
 - Consolidated financial statements
