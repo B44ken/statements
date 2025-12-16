@@ -1,43 +1,36 @@
 # Kitchener (Ontario) – Notes
 
-## Status
+## What's in this folder
 
-Unable to download financial statements due to technical limitations.
+For each year folder (2020-2024), `FinancialReport.pdf` is the City of Kitchener's audited consolidated financial statements.
 
-## Attempts Made
+## Years Available
 
-### URLs Tried
-- https://www.kitchener.ca/en/council-and-city-administration/budget-and-financial-reports.aspx (404)
-- https://www.kitchener.ca/en/council-and-city-administration/financial-reports.aspx (404)
-- https://www.kitchener.ca/en/city-services/financial-reports.aspx (404)
-- https://www.kitchener.ca/council-and-city-administration/financial-information/ (404)
-- https://www.kitchener.ca/council-and-city-administration/budget/ (404)
-- Various document paths with different naming patterns (all 404)
+- 2024
+- 2023
+- 2022
+- 2021
+- 2020
 
-### Blockers
+## Source
 
-1. **Domain Access**: The domain `www.kitchener.ca` is blocked in the current environment, preventing browser-based navigation
-2. **Unknown URL Structure**: Unable to determine the correct URL path for financial statements through automated searches
-3. **Document Naming**: Unable to identify the document naming convention used by Kitchener for their financial statements
+City of Kitchener – Audited Financial Statements:
+https://www.kitchener.ca/taxes-utilities-and-finance/budget-and-financial-reports/audited-financial-statements/
 
-## Recommended Next Steps
+The page can be accessed via:
+1. Main site: https://www.kitchener.ca
+2. Navigate to: Taxes, Utilities and Finance
+3. Select: Budget and Financial Reports
+4. Choose: Audited Financial Statements
 
-To complete this task, manual intervention is needed:
+## Direct PDF Links (as of December 2024)
 
-1. Visit https://www.kitchener.ca from an unrestricted environment
-2. Navigate to Council/City Administration section
-3. Look for "Budget and Financial Reports" or "Financial Statements" links
-4. Download available Audited Consolidated Financial Statements for as many years as possible
-5. Organize into year subfolders (2024/, 2023/, 2022/, etc.)
-6. Name files consistently with other municipalities (e.g., FinancialStatements.pdf or AnnualReport.pdf)
+- 2024: https://www.kitchener.ca/media/wn0j25df/2024-financial-report.pdf
+- 2023: https://www.kitchener.ca/media/g3whoj0o/fin_fp_2023_financial_report.pdf
+- 2022: https://www.kitchener.ca/media/szgc1dia/fin_fp_2022_financial_report.pdf
+- 2021: https://www.kitchener.ca/media/2szdqxly/fin_fp_2021_financial_report.pdf
+- 2020: https://www.kitchener.ca/media/kaqdsvnj/fin_acct_2020_financial_report.pdf
 
-## Alternative Search Suggestions
+## Notes
 
-- Search: "Kitchener Ontario consolidated financial statements"
-- Search: "City of Kitchener annual financial report"
-- Try: Open Data Kitchener portal if available
-- Check: Ontario municipal financial statement repositories
-
-## Source (To be updated)
-
-Source URL will be documented here once financial statements are successfully located and downloaded.
+The City of Kitchener provides their audited financial statements dating back to 2020 on their website. These are comprehensive annual financial reports that include consolidated financial statements.
