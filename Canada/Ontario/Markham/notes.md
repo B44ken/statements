@@ -17,9 +17,9 @@ https://www.markham.ca/about-city-markham/city-hall/property-tax-water-budgets-a
 
 ## Direct Links to Downloaded Files
 
-- 2024: https://www.markham.ca/sites/default/files/2025-06/AR%202024%20Jun-9-AODA.pdf
-- 2023: https://www.markham.ca/sites/default/files/2024-07/Annual_Report_2023.pdf
-- 2022: https://www.markham.ca/sites/default/files/markhamcontent/%25212022%2BAnnual%2BReport%2BAODA%2BCompliant_highrise.pdf
+- 2024 Annual Report: [Download PDF](https://www.markham.ca/sites/default/files/2025-06/AR%202024%20Jun-9-AODA.pdf)
+- 2023 Annual Report: [Download PDF](https://www.markham.ca/sites/default/files/2024-07/Annual_Report_2023.pdf)
+- 2022 Annual Report: [Download PDF](https://www.markham.ca/sites/default/files/markhamcontent/%25212022%2BAnnual%2BReport%2BAODA%2BCompliant_highrise.pdf)
 
 ## Municipality Information
 
