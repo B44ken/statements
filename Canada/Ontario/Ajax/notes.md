@@ -22,7 +22,7 @@
 ## Expected Sources
 
 Based on typical Ontario municipality patterns, Ajax financial statements should be available at:
-- Town of Ajax official website (ajax.ca)
+- Town of Ajax official website (www.ajax.ca or ajax.ca)
 - Annual Financial Reports section
 - Budget and Finance pages
 
@@ -47,7 +47,7 @@ Based on the Toronto example:
 ## Manual Download Instructions
 
 Someone with unrestricted internet access should:
-1. Go to https://www.ajax.ca
+1. Go to https://www.ajax.ca (or http://www.ajax.ca if HTTPS is not available)
 2. Search for "financial statements" or "annual reports"
 3. Download available reports (check multiple years if available)
 4. Organize into year subfolders in this directory
